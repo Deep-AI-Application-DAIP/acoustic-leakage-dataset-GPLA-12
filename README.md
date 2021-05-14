@@ -5,10 +5,10 @@ GPLA-12 is a new acoustic leakage dataset of gas pipelines involving 12 categori
 
 At present, the data set has been updated to the second version. Please download the data_V2.zip if necessary
 
-@article{jie2021li3694650,
-  title={GPLA-12: An Acoustic Signal Dataset of Gas Pipeline Leakage},
-  author={Jie Li, Lizhong Yao},
-  journal={arXiv},
-  pages={arXiv—3694650},
-  year={2021}
+@article{jie2021li3694650,  
+  title={GPLA-12: An Acoustic Signal Dataset of Gas Pipeline Leakage},  
+  author={Jie Li, Lizhong Yao},  
+  journal={arXiv},  
+  pages={arXiv—3694650},  
+  year={2021}  
 }
